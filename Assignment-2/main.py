@@ -1,3 +1,4 @@
+# https://github.com/IT23043/Python-With-Django/blob/main/Assignment-2/IMG_20250517_105431.jpg
 import Calc as c
 
 a = int(input("Enter a: "))
